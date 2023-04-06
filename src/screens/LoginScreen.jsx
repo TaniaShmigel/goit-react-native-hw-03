@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
     alignSelf: "center",
     marginTop: 92,
 
-    fontWeight: 500,
+    fontFamily: "Roboto-Medium",
     fontSize: 30,
     lineHeight: 35,
   },
